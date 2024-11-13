@@ -179,11 +179,6 @@ Werkzeug==3.1.1
 wheel==0.44.0
 widgetsnbextension==4.0.9
 wrapt==1.16.0
-PS C:\Users\Wafiul Achdi\Documents\data science\submission> pip freeze > requirements.txt
-PS C:\Users\Wafiul Achdi\Documents\data science\submission> pip install --upgrade pip
-Requirement already satisfied: pip in c:\users\wafiul achdi\appdata\local\programs\python\python312\lib\site-packages (24.3.1)
-PS C:\Users\Wafiul Achdi\Documents\data science\submission> pip freeze > requirements.txt
-PS C:\Users\Wafiul Achdi\Documents\data science\submission>  pip freeze requirements.txt
 absl-py==2.1.0
 altair==5.4.1
 annotated-types==0.7.0
