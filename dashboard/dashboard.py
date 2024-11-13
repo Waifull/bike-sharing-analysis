@@ -4,7 +4,7 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 from sklearn.preprocessing import StandardScaler
 
-data = pd.read_csv('main_data.csv')
+data = pd.read_csv('dashboard/main_data.csv')
 
 st.title("Dashboard Analisis Data Penyewaan Sepeda")
 
